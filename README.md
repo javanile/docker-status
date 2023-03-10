@@ -6,6 +6,11 @@ Eseguire questo comando nella macchina su cui è installato Docker per sapere ch
 $ curl https://get.javanile.org/docker-status | sudo bash -
 ```
 
+## Status Checks
+
+- Verificare che docker-compose up -d funzioni su un progette creato al volo sulla cartella /tmp e poi rimosso dopo il test
+- Verificare la presensa sia di "docker compose" che "docker-compose"
+
 ## Problems & Solutions
 
 Problem
